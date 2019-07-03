@@ -1,2 +1,2 @@
 # DemoBottomNavigation
-![picture alt](images/screenshot.png "Title is optional")
+![picture alt](image/screenshot-1.png)
